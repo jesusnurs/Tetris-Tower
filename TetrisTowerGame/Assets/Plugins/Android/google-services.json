@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876297741061",
+    "project_id": "cubeblast-472ec",
+    "storage_bucket": "cubeblast-472ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876297741061:android:e31da3ee0d5c2853400d6c",
+        "android_client_info": {
+          "package_name": "com.goodmorninggames.cubeblast"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHvQx3uUHeW6xQIICroG3Opwx-X-J7rvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
